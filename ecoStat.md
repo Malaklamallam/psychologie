@@ -101,6 +101,5 @@ Existe-t-il une corrélation entre offre et consommation?
 - Visualisations interactives.  
 - Acteurs institutionnels (jeunes, professionnels, structures, ARS, département).
 
-## Resultat de visualisation 
 
 
