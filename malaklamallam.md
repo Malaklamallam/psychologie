@@ -1,3 +1,6 @@
+<img width="2842" height="3362" alt="mermaid" src="https://github.com/user-attachments/assets/551ea684-8c89-4bb9-a1e1-4f3b4c88a769" />
+
+
 classDiagram
 %% --- Acteurs principaux ---
 class ARS_IDF {
